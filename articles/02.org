@@ -57,7 +57,7 @@
 
   再起動し，デスクトップが表示される。
 
-  [[./gitbook/images/01.png][debian-screen]]
+  ![[./gitbook/images/01.png][debian-screen]]
 
   「じゃーん」「なるほど，Debianそのものを入れたわけか」
 
