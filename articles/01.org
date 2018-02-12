@@ -1,7 +1,7 @@
 #+OPTIONS: toc:nil
 #+OPTIONS: \n:t
 
-* EeePCとEmacsと私と
+* 01 - EeePCとEmacsと私と
 
   何か目的があったわけではない。何かじっとしていられないことがあったのかもしれない。私は埃をかぶったEeePCの天板を拭くと，スイッチを入れた。
 
