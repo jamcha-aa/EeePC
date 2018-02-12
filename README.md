@@ -1,6 +1,6 @@
 # EeePCとEmacsと○○と
 
-<https://jamcha-aa.gitbooks.io/EeePC/content/>  
+<https://jamcha-aa.gitbooks.io/eeepc/content/>  
 
 この物語はフィクションであり，実在の人物・団体とは一切関係ありません。  
 
