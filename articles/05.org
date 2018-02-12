@@ -11,7 +11,7 @@
 
   eww -- emacs web wowser。emacsに標準でついているブラウザである。
 
-  私はewwでemacsを検索してみせた。
+  私はewwで検索をしてみせた。googleを使うように設定を変えている。
 
   ![[./gitbook/images/03.png][eww-screen]]
 
