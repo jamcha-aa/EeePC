@@ -61,6 +61,8 @@
 
   「譲らないよ」
 
+  <br>
+
   ![[./gitbook/images/04.png][debian-fetch]]
 
   <br>
