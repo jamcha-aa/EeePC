@@ -47,6 +47,13 @@
 
   <br>
   <br>
+
+  参考: レイアウトの左右を入れ替えたもの
+
+  ![[./gitbook/images/02b.png][screen-inverted]]
+
+  <br>
+  <br>
   (c) 2018 jamcha (jamcha.aa@gmail.com).
 
   [[http://creativecommons.org/licenses/by-sa/4.0/deed][file:http://i.creativecommons.org/l/by-sa/4.0/88x31.png]]
