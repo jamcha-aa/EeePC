@@ -86,10 +86,6 @@
 
   <br>
   <br>
-  (c) 2018 jamcha (jamcha.aa@gmail.com).
-
-  [[http://creativecommons.org/licenses/by-sa/4.0/deed][file:http://i.creativecommons.org/l/by-sa/4.0/88x31.png]]
-
   <br>
   <br>
 
@@ -98,4 +94,10 @@
   ![[./gitbook/images/mandela.png][mandela]]
 
   (https://en.wikipedia.org/wiki/File:Experience_ubuntu.ogv)
+
+  <br>
+  <br>
+  (c) 2018 jamcha (jamcha.aa@gmail.com).
+
+  [[http://creativecommons.org/licenses/by-sa/4.0/deed][file:http://i.creativecommons.org/l/by-sa/4.0/88x31.png]]
 
