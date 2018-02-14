@@ -43,15 +43,7 @@
 
   mpv https://upload.wikimedia.org/wikipedia/commons/1/17/Experience_ubuntu.ogv
 
-  <br>
-
-  ![[./gitbook/images/mandela.png][mandela]]
-
-  (https://en.wikipedia.org/wiki/File:Experience_ubuntu.ogv)
-
-  <br>
-
-  EeePCは思わず「oh ...」と声を出した。初期のUbuntuに添付されていた，ネルソン・マンデラ氏へのインタビュー動画である。Ubuntuの魂が込められた傑作中の傑作だ。だがそれはEeePCが，いや，ほとんどの人が求めるものではない。それまでの空気が急激に冷えてゆく。わかってはいながら，これほど冷めるとは思っていなかった。
+  EeePCは思わず「oh ...」と声を出した。初期のUbuntuに同梱されていた，ネルソン・マンデラ氏へのインタビュー動画である。Ubuntuの魂が込められた傑作中の傑作だ。だが「PCで動画見ようよ」と軽い気持ちで見るものではない。しかもEeePCが，いや，ほとんどの人がこんな場面で求めるものでもない。それまでの空気が急激に冷えてゆく。わかってはいながら，これほど冷めるとは思っていなかった。
 
   「ね，見れるでしょ」「…お前は私をこんな目にあわせて楽しいのか？」
 
@@ -97,3 +89,13 @@
   (c) 2018 jamcha (jamcha.aa@gmail.com).
 
   [[http://creativecommons.org/licenses/by-sa/4.0/deed][file:http://i.creativecommons.org/l/by-sa/4.0/88x31.png]]
+
+  <br>
+  <br>
+
+  (参考) 初期のUbuntuに同梱されていたインタビュー動画の様子
+
+  ![[./gitbook/images/mandela.png][mandela]]
+
+  (https://en.wikipedia.org/wiki/File:Experience_ubuntu.ogv)
+
