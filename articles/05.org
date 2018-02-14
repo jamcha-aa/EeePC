@@ -47,6 +47,10 @@
 
   ![[./gitbook/images/mandela.png][mandela]]
 
+  (https://en.wikipedia.org/wiki/File:Experience_ubuntu.ogv)
+
+  <br>
+
   EeePCは思わず「oh ...」と声を出した。初期のUbuntuに添付されていた，ネルソン・マンデラ氏へのインタビュー動画である。Ubuntuの魂が込められた傑作中の傑作だ。だがそれはEeePCが，いや，ほとんどの人が求めるものではない。それまでの空気が急激に冷えてゆく。わかってはいながら，これほど冷めるとは思っていなかった。
 
   「ね，見れるでしょ」「…お前は私をこんな目にあわせて楽しいのか？」
