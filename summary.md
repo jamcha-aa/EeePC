@@ -5,3 +5,4 @@
 -   [03 - EeePCとEmacsとセットアップと](/articles/03.md)
 -   [04 - EeePCとEmacsとSSDと日本語と](/articles/04.md)
 -   [05 - EeePCとEmacsとインターネットと](/articles/05.md)
+-   [06 - EeePCとEmacsと今でも変わらないこと](/articles/06.md)
