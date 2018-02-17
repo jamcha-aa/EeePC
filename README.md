@@ -2,6 +2,8 @@
 
 <https://jamcha-aa.gitbooks.io/eeepc/content/>  
 
+10年前のノートPCを現役で使おうという試み。(全6話)  
+
 この物語はフィクションであり，実在の人物・団体とは一切関係ありません。  
 
 ## License
