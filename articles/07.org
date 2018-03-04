@@ -50,7 +50,7 @@
 
   解説動画 (https://www.youtube.com/watch?v=Gk9-q8tXbMs)
 
-  解説動画で作られた設定ファイルの例 (https://jamcha-aa/exwm-desktop)
+  解説動画で作られた設定ファイルの例 ([[https://github.com/jamcha-aa/exwm-desktop]])
  
   <br>
   <br>
