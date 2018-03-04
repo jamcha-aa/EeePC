@@ -6,3 +6,4 @@
 -   [04 - EeePCとEmacsとSSDと日本語と](/articles/04.md)
 -   [05 - EeePCとEmacsとインターネットと](/articles/05.md)
 -   [06 - EeePCとEmacsと私の大切なアシスタント](/articles/06.md)
+-   [おまけ - EeePCとEmacsとEXWMと](/articles/07.md)
