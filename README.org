@@ -3,7 +3,7 @@
 
 * EeePCとEmacsと○○と
 
-  [[https://jamcha-aa.gitbooks.io/eeepc/content/]]
+  https://jamcha-aa.gitbook.io/eeepc/
 
   10年前のノートPCを現役で使おうという試み。(全6話)
 

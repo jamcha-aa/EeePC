@@ -1,6 +1,8 @@
+
+
 # EeePCとEmacsと○○と
 
-<https://jamcha-aa.gitbooks.io/eeepc/content/>  
+<https://jamcha-aa.gitbook.io/eeepc/>  
 
 10年前のノートPCを現役で使おうという試み。(全6話)  
 
@@ -15,4 +17,5 @@ Copyright (c) 2018 jamcha (jamcha.aa@gmail.com).
 
 This novel is licensed under the [Creative Commons Attribution Share Alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/deed)  
 
-![cc by-sa](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![cc by-sa](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)  
+
