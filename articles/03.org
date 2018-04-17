@@ -51,7 +51,6 @@
 
   <br>
   <br>
-
   参考: レイアウトの左右を入れ替えたもの。熱弁するほどの違いはない。
 
   ![[./gitbook/images/02b.png][screen-inverted]]

@@ -30,7 +30,6 @@
   それは私と出会ったあの頃から，いや，私が初めてコンピュータに触ったときからずっと求めていたものだ。そしてそれは，これからもきっと変わらない。
 
   <br>
-
   「楽しいよ。すごく楽しい」
 
   「え？」「今でもこんなふうに君を使えるなんて思ってなかったから」
@@ -41,7 +40,6 @@
 
   <br>
   <br>
-
   こうして私は自分の考えたアイデアの全てをEeePCに見せた。
 
   「ふーむ」
@@ -61,21 +59,19 @@
   「譲らないよ」
 
   <br>
-
   ![[./gitbook/images/04.png][debian-fetch]]
 
   <br>
-
+  <br>
   -- 了 --
 
   <br>
   <br>
   <br>
   <br>
-
   (参考) 初期のUbuntuに同梱されていたインタビュー動画の様子。この画像を本文中に表示したとき，あまりのインパクトにその後の文章が頭に入らなかったため末尾に移した。
 
-  ![[./gitbook/images/mandela.png][mandela]]
+  ![[./gitbook/images/mandela.png][Experience_ubuntu]]
 
   (https://en.wikipedia.org/wiki/File:Experience_ubuntu.ogv)
 
