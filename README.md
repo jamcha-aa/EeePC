@@ -8,13 +8,13 @@
 スマホの場合は画面左上の「≡」で目次の表示/非表示ができます。  
 
 <br>  
+<br>  
+この物語はフィクションであり，実在の人物・団体とは一切関係ありません。  
+
+<br>  
 [作品一覧](https://jamcha-aa.gitbook.io/about/)  
 
 [GitHubリポジトリ](https://jamcha-aa.gitbook.io/eeepc/)  
-
-<br>  
-<br>  
-この物語はフィクションであり，実在の人物・団体とは一切関係ありません。  
 
 Copyright (c) 2018 jamcha (jamcha.aa@gmail.com).  
 
