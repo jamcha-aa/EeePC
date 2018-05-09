@@ -25,7 +25,7 @@
 
   ではEeePCが役立たずかといえばそうではない。だって，今のEeePCには，youtubeで動画を見ることよりももっと大事な役割があるのだから。
 
-  それは[[https://www.youtube.com/watch?v%3DVADudzQGvU8&feature%3Dyoutu.be&t%3D24m][文章を読み，そして書くこと]]。
+  それは[[https://youtu.be/VADudzQGvU8?t%3D24m][文章を読み，そして書くこと]]。
 
   それは私と出会ったあの頃から，いや，私が初めてコンピュータに触ったときからずっと求めていたものだ。そしてそれは，これからもきっと変わらない。
 
