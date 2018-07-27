@@ -29,15 +29,15 @@
   EeePCは「でたよskk…」という表情をした，ように見えた。
 
   #+BEGIN_QUOTE
-  最初に言っとくけど、SKKの変換方法はガチで非常に独特である。 -- [[http://dic.nicovideo.jp/a/skk][ニコニコ大百科『SKK』]]
+  最初に言っとくけど、SKKの変換方法はガチで非常に独特である。 -- [[https://dic.nicovideo.jp/a/skk][ニコニコ大百科『SKK』]]
   #+END_QUOTE
 
   SKKはEeePCでも他のPCと変わらない速度で「私が」変換できる，現状唯一の日本語入力方式である。超多段シフトとか無理です。ごめんなさい。SKKは本体がelispで書かれているので，emacsが動くところならどこでも使える。仮に今後termuxを使うような機会があっても，やれmozcのビルドだのそういった手間がかからずに利用できるのが強みである。予測変換機能も古くから実装されていて，「にゅうりょく」といった，一つの指に負荷がかかる単語も助けてくれる。AZIKというローマ字拡張入力方式にも対応しており，私がEeePCを現役のワープロとして使えると思ったのもSKKのおかげである。ありがとうSKK開発者の皆さん。
 
-  SKKのページ (http://openlab.ring.gr.jp/skk/index-j.html)
+  SKKのページ ([[http://openlab.ring.gr.jp/skk/index-j.html]])
 
   <br>
   <br>
   (c) 2018 jamcha (jamcha.aa@gmail.com).
 
-  ![[http://i.creativecommons.org/l/by-sa/4.0/88x31.png][cc by-sa]]
+  ![[https://i.creativecommons.org/l/by-sa/4.0/88x31.png][cc by-sa]]
