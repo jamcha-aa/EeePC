@@ -3,12 +3,12 @@
 
 * EeePCとEmacsと○○と
 
-  https://jamcha-aa.gitbook.io/eeepc/
+  [[https://jamcha-aa.github.io/EeePC/]]
 
   10年前のノートPCを現役で使おうという試み。(全6話)
 
   <br>
-  スマホの場合は画面左上の「≡」で目次の表示/非表示ができます。
+  画面左上の「≡」で目次の表示/非表示ができます。
 
   <br>
   <br>

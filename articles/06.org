@@ -59,7 +59,7 @@
   「譲らないよ」
 
   <br>
-  ![[./gitbook/images/04.png][debian-fetch]]
+  ![[./images/04.png][debian-fetch]]
 
   <br>
   <br>
@@ -71,7 +71,7 @@
   <br>
   (参考) 初期のUbuntuに同梱されていたインタビュー動画の様子。この画像を本文中に表示したとき，あまりのインパクトにその後の文章が頭に入らなかったため末尾に移した。
 
-  ![[./gitbook/images/mandela.png][Experience-ubuntu]]
+  ![[./images/mandela.png][Experience-ubuntu]]
 
   (https://en.wikipedia.org/wiki/File:Experience_ubuntu.ogv)
 

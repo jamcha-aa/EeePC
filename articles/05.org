@@ -13,7 +13,7 @@
 
   私はewwで検索をしてみせた。duckduckgoだと検索結果が見づらいのでgoogleを使うよう設定を変えてある。
 
-  ![[./gitbook/images/03.png][eww-screen]]
+  ![[./images/03.png][eww-screen]]
 
   「速いな」テキストブラウザの名のとおり，本当にテキストのみである。ゆえに圧倒的に速い。
 

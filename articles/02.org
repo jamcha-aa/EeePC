@@ -57,7 +57,7 @@
   再起動し，デスクトップが表示される。
 
   <br>
-  ![[./gitbook/images/01.png][debian-screen]]
+  ![[./images/01.png][debian-screen]]
 
   「じゃーん」
 

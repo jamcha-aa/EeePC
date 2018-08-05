@@ -33,7 +33,7 @@
 
   私は設定を終えたemacsを起動しなおし，F11キーで全画面にすると，フレームを分割してEeePCに見せた。
 
-  ![[./gitbook/images/02.png][emacs-screen]]
+  ![[./images/02.png][emacs-screen]]
 
   「どう？結構いいでしょ」「見た目だけならな。やけに黒いが」「白いと目がチカチカするんだよ。だから暖色系にしてるんだ。warm-night-modeっていうテーマ」
 
@@ -53,7 +53,7 @@
   <br>
   参考: レイアウトの左右を入れ替えたもの。熱弁するほどの違いはない。
 
-  ![[./gitbook/images/02b.png][screen-inverted]]
+  ![[./images/02b.png][screen-inverted]]
 
   <br>
   <br>
